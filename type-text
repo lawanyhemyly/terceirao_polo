@@ -1,0 +1,11 @@
+// tipo text
+
+const texto1 ="ola,mundo"
+const texto2 ="ola,mundo"
+const senha ="pa$world";
+const StringDeNumeros = "34567"
+
+const citacao ="meu nome é";
+const meunome ="jonny"
+//concetração (+)
+console.log(citacao+meunome)

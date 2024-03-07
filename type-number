@@ -1,0 +1,8 @@
+// tipo number 
+
+const primeiro = 10;
+const segundonumero = 253;
+
+const operacaoMatematica =
+primeironumero * segundonumero;
+console.log(operacaoMatematica)

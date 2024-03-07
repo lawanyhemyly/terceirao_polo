@@ -1,0 +1,16 @@
+// tipo boolean 
+// boolean - true->verdadeiro - false->falso
+
+const primeiroNumero = 5;
+const segundoNumero = 5;
+let cadastroAtivado = true;
+
+
+console.log(primeiroNumero === segundoNumero)
+// == só compara o valor
+// === compara o valor e o tipo de dado
+
+const text1 = "Alura";
+const text2 = "alura";
+
+console.log(text1 === text2)
